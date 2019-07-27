@@ -33,6 +33,10 @@
    Code for [PWM modulation with gyroscope/accelerometer](https://github.com/popikeyshen/quad_drone_mechanics) for stm32discovery board 
    
    Old code to opencv [face recognition](https://github.com/popikeyshen/cascade_recognition-VS10) with visual studio 2010 
+   
+5. Other
+
+   This repo will be with [code rules](https://github.com/popikeyshen/Code)
   
 
 
