@@ -6,10 +6,8 @@
 2. C/C++
 
    [Sockets](https://github.com/popikeyshen/sockets) example
-   
    Fast C++ example of  [mtcnn](https://github.com/popikeyshen/mtcnn)  neural network
-   
-   Some code from Pixhawh drone (autopilot)[https://github.com/popikeyshen/Mission]
+   Some code from Pixhawk drone (autopilot)[https://github.com/popikeyshen/Mission]
   
 
 3. Python
