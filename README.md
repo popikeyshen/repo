@@ -5,7 +5,7 @@
 
 2. Bash
 
-   [Auto install scripts](https://github.com/popikeyshen/scripts)
+   [Auto install scripts](https://github.com/popikeyshen/scripts) (Opencv,dlib,eigen,caffe)
 
 3. [Python](https://github.com/popikeyshen/python)
 
