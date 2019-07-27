@@ -3,7 +3,11 @@
 
 1. [ML](https://github.com/popikeyshen/ML)
 
-2. [Python](https://github.com/popikeyshen/python)
+2. Bash
+
+   [Auto install scripts](https://github.com/popikeyshen/scripts)
+
+3. [Python](https://github.com/popikeyshen/python)
 
    [Auto_annotation](https://github.com/popikeyshen/auto_annotation) script to make dataset in ML
    
@@ -14,7 +18,7 @@
    [Web scrapper](https://github.com/popikeyshen/woocommerce) with Urllib and BeautifulSoup
    
 
-3. [C/C++](https://github.com/popikeyshen/cpp)
+4. [C/C++](https://github.com/popikeyshen/cpp)
 
    [FFmpeg](https://github.com/popikeyshen/ffmpeg) opencv pipeline example
 
