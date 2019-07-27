@@ -5,6 +5,13 @@
 
 2. [Python](https://github.com/popikeyshen/python)
 
+   [Auto_annotation](https://github.com/popikeyshen/auto_annotation) script to make dataset in ML
+   
+   [FFT](https://github.com/popikeyshen/FFT) examples in jypyter notebook
+   
+   [Using neural network](https://github.com/popikeyshen/flask_socketio_neural_nets) with flask web server
+   
+   [Web scrapper](https://github.com/popikeyshen/woocommerce) with Urllib and BeautifulSoup
    
 
 3. [C/C++](https://github.com/popikeyshen/cpp)
