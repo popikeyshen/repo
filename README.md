@@ -11,7 +11,7 @@
    
    Fast C++ example of  [mtcnn](https://github.com/popikeyshen/mtcnn) neural network
    
-   Some code from Pixhawk drone (autopilot)[https://github.com/popikeyshen/Mission]
+   Some code from Pixhawk drone [autopilot](https://github.com/popikeyshen/Mission)
    
    [WS2811](https://github.com/popikeyshen/COM_Port_WS2811) led driver 
    
