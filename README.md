@@ -1,5 +1,5 @@
 
-# About my github and [links](https://github.com/popikeyshen/repo)
+# About my github
 
 1. [ML](https://github.com/popikeyshen/ML)
 
