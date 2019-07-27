@@ -13,6 +13,8 @@
    
    Some code from Pixhawk drone (autopilot)[https://github.com/popikeyshen/Mission]
    
+   [WS2811](https://github.com/popikeyshen/COM_Port_WS2811) led driver 
+   
    Old code to opencv [face recognition](https://github.com/popikeyshen/cascade_recognition-VS10) with visual studio 2010 
   
 
