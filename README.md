@@ -37,6 +37,8 @@
 5. Other
 
    This repo will be with [code rules](https://github.com/popikeyshen/Code)
+   
+   [ESP8266 lua script](https://github.com/popikeyshen/esp_8266_web_script_lua)
   
 
 
