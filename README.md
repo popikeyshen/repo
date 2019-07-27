@@ -3,7 +3,7 @@
 
 1. [ML](https://github.com/popikeyshen/ML)
 
-2. C/C++
+2. [C/C++](https://github.com/popikeyshen/cpp)
 
    [FFmpeg](https://github.com/popikeyshen/ffmpeg) opencv pipeline example
 
